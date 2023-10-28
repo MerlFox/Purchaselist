@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -22,7 +12,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 1000,
+		"price": 650,
 		"karmatype": "Neutral"
 	},
 	{
@@ -34,11 +24,6 @@
 		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "drythunderstorm",
-		"price": 800,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "snowgentle",
@@ -57,37 +42,32 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 1000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "flashstorm",
-		"price": 800,
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "coldsnap",
-		"price": 800,
+		"price": 8000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "solarflare",
-		"price": 1000,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 10000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
-		"price": 700,
+		"price": 450,
 		"karmatype": "Bad"
 	},
 	{
@@ -97,17 +77,17 @@
 	},
 	{
 		"abr": "blight",
-		"price": 1000,
+		"price": 7000,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "animaltame",
+		"price": 150,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -122,27 +102,22 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 500,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
-		"price": 200,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "psychicdrone",
 		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "psychicdrone",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "psychicsoothe",
-		"price": 1000,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -158,11 +133,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -197,47 +167,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "raid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "manhunterpack",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "randomdisease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "disease",
-		"price": 1000,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
@@ -248,7 +178,7 @@
 	{
 		"abr": "pawn",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "levelskill",
@@ -267,7 +197,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 1,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -327,7 +257,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -337,7 +267,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
@@ -349,7 +279,47 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "sanctuary",
+		"price": 100000,
+		"karmatype": "Good"
 	}
 	],
-	"total": 70
+	"total": 64
 }
